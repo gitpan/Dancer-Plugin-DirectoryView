@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               Dancer-Plugin-DirectoryView
-version:            0.01
-abstract:           Browse directory contents in Dancer web
+version:            0.011
+abstract:           Browse directory contents in Dancer web apps
 author:
     - Michal Wojciechowski <odyniec@cpan.org>
 license:            perl
